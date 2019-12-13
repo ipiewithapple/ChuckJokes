@@ -11,10 +11,10 @@
     "clear": "del-cli dist"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.4",
-    "@babel/plugin-proposal-class-properties": "^7.5.5",
-    "@babel/preset-env": "^7.6.3",
-    "autoprefixer": "^9.7.0",
+    "@babel/core": "^7.7.5",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/preset-env": "^7.7.6",
+    "autoprefixer": "^9.7.3",
     "babel-loader": "^8.0.6",
     "copy-webpack-plugin": "^4.6.0",
     "css-loader": "^1.0.1",
@@ -28,7 +28,7 @@
     "pug-loader": "^2.4.0",
     "sass-loader": "^7.3.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0"
   },
   "browserslist": [

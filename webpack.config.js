@@ -88,11 +88,5 @@ module.exports = {
     new MiniCssExtractPlugin({
       filename: "./css/style.css"
     }),
-    new CopyWebpackPlugin([
-      {
-        from: './src/img',
-        to: './img'
-      }
-    ]),
   ]
 };
